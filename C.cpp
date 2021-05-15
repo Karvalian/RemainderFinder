@@ -17,5 +17,9 @@ int main(){
 		// Simple formula to get the remainder
 		cout << a % b << endl;
 	}
+	cout << "Press any key to exit." << endl;
+	int kk;
+	cin >> kk;
+}
 	
 }
